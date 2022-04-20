@@ -1,2 +1,2 @@
 # finans
-Homepage of a financial management website powered by Bootstrap
+Responsive homepage of a financial management website using Bootstrap
